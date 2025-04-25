@@ -17,7 +17,7 @@
 <img align="right" alt="Meme" width="40%" src="https://www.icegif.com/wp-content/uploads/icegif-4383.gif">
 
 <p align="left"> <div
-<a href="https://www.linkedin.com/in/ers-enzo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077b5?style=for-the-badge&logo=linked&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/ers-enzo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077b5?style=for-the-badge&logo=linked&logoColor=white"</a>
 </div> </p> 
 
 📈 Currently working on my own **Data Projects**<br>
