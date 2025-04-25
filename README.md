@@ -1,4 +1,4 @@
-<img src="https://touchc.com.br/wp-content/uploads/2019/04/progress-database-1.gif?section=header" alt= "GitHub Banner" width="100%" height="300px" />
+  <img src="https://touchc.com.br/wp-content/uploads/2019/04/progress-database-1.gif?section=header" alt= "GitHub Banner" width="100%" height="300px" />
 
 [![Typing_SVG](https://readme-typing-svg.herokuapp.com/?color=37aa37&size=40&center=true&vCenter=true&width=1000&lines=HELLO+WORLD!;My+name+is+Enzo+Rocha;I'm+20+years+old;from+Brazil;Studying+Information+Systems+at+UAM;Data+Intern+at+Shoulder;Be+Welcome!+:%50)](https://git.io/typing-svg)
 
@@ -16,8 +16,9 @@
 <br>
 <img align="right" alt="Meme" width="40%" src="https://www.icegif.com/wp-content/uploads/icegif-4383.gif">
 
-<p align="left"> <div
-<a href="https://www.linkedin.com/in/ers-enzo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077b5?style=for-the-badge&logo=linked&logoColor=white"</a>
+<p align="left"> 
+<div>
+  <a href="https://www.linkedin.com/in/ers-enzo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077b5?style=for-the-badge&logo=linked&logoColor=white"</a>
 </div> </p> 
 
 📈 Currently working on my own **Data Projects**<br>
