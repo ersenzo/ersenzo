@@ -14,7 +14,7 @@
 # 🥷🏽 About Me:
 
 <br>
-<img align="right" alt="Meme" width="40%" src="https://www.icegif.com/wp-content/uploads/icegif-4383.gif">
+<img align="right" alt="Meme" width="35%" src="https://www.icegif.com/wp-content/uploads/icegif-4383.gif">
 
 <p align="left"> 
 <div>
